@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/musicexperimentsdeploy/static/css/main.8bf4aa68.chunk.css",
-    "main.js": "/musicexperimentsdeploy/static/js/main.b501019d.chunk.js",
-    "main.js.map": "/musicexperimentsdeploy/static/js/main.b501019d.chunk.js.map",
-    "runtime-main.js": "/musicexperimentsdeploy/static/js/runtime-main.607c7221.js",
-    "runtime-main.js.map": "/musicexperimentsdeploy/static/js/runtime-main.607c7221.js.map",
+    "main.js": "/musicexperimentsdeploy/static/js/main.84f1aa31.chunk.js",
+    "main.js.map": "/musicexperimentsdeploy/static/js/main.84f1aa31.chunk.js.map",
+    "runtime-main.js": "/musicexperimentsdeploy/static/js/runtime-main.d9d07534.js",
+    "runtime-main.js.map": "/musicexperimentsdeploy/static/js/runtime-main.d9d07534.js.map",
     "static/css/2.611213c9.chunk.css": "/musicexperimentsdeploy/static/css/2.611213c9.chunk.css",
-    "static/js/2.35b2d11a.chunk.js": "/musicexperimentsdeploy/static/js/2.35b2d11a.chunk.js",
-    "static/js/2.35b2d11a.chunk.js.map": "/musicexperimentsdeploy/static/js/2.35b2d11a.chunk.js.map",
-    "static/js/3.95a151ee.chunk.js": "/musicexperimentsdeploy/static/js/3.95a151ee.chunk.js",
-    "static/js/3.95a151ee.chunk.js.map": "/musicexperimentsdeploy/static/js/3.95a151ee.chunk.js.map",
+    "static/js/2.064941d6.chunk.js": "/musicexperimentsdeploy/static/js/2.064941d6.chunk.js",
+    "static/js/2.064941d6.chunk.js.map": "/musicexperimentsdeploy/static/js/2.064941d6.chunk.js.map",
+    "static/js/3.f4bf6d50.chunk.js": "/musicexperimentsdeploy/static/js/3.f4bf6d50.chunk.js",
+    "static/js/3.f4bf6d50.chunk.js.map": "/musicexperimentsdeploy/static/js/3.f4bf6d50.chunk.js.map",
     "index.html": "/musicexperimentsdeploy/index.html",
     "static/css/2.611213c9.chunk.css.map": "/musicexperimentsdeploy/static/css/2.611213c9.chunk.css.map",
     "static/css/main.8bf4aa68.chunk.css.map": "/musicexperimentsdeploy/static/css/main.8bf4aa68.chunk.css.map",
-    "static/js/2.35b2d11a.chunk.js.LICENSE.txt": "/musicexperimentsdeploy/static/js/2.35b2d11a.chunk.js.LICENSE.txt"
+    "static/js/2.064941d6.chunk.js.LICENSE.txt": "/musicexperimentsdeploy/static/js/2.064941d6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.607c7221.js",
+    "static/js/runtime-main.d9d07534.js",
     "static/css/2.611213c9.chunk.css",
-    "static/js/2.35b2d11a.chunk.js",
+    "static/js/2.064941d6.chunk.js",
     "static/css/main.8bf4aa68.chunk.css",
-    "static/js/main.b501019d.chunk.js"
+    "static/js/main.84f1aa31.chunk.js"
   ]
 }
